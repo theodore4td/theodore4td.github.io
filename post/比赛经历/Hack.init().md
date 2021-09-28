@@ -143,7 +143,6 @@ void automode()
     lightdown();
     }
 }
-
 void HUMIDITY_print_function(uint8_t *payload, uint32_t len)
 {
 
